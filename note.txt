@@ -1,0 +1,6 @@
+<div></div> = Division
+
+
+
+Margin  = Take Space outside of the box
+Padding = Take Space inside of the box
